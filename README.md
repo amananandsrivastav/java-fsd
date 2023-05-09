@@ -1,2 +1,2 @@
 # java-fsd
-In zip file all  Practice Project Solution pdf are present.
+In zip file(Practice-Project(1-10)) all  Practice Project Solution pdf are present.
